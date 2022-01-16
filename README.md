@@ -12,7 +12,9 @@ The tool only uses standard front-end web technologies (HTML, CSS, JS), so no we
 
 ## Running the Tool
 
-Simply download the HTML file and open it in the browser. I may eventually set up Github to host this file so that you can visit it without downloading it to a local file first. But I have not yet made it available that way.
+If you download the HTML file locally, you can simply use load it in the browser.
+
+It is also now hosted on Github pages, [here](https://bytesized.github.io/keep_talking/keep_talking.html).
 
 ## Usage
 
