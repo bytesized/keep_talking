@@ -34,7 +34,7 @@ This has always been the most frustrating module for me. It just seems like it's
 
 ### Complicated Wires
 
-This module tool works a bit differently to other, similar ones. It starts with all the buttons pre-selected. It seems inefficient to communicate the things that the wire doesn't have, so I didn't want to need to press buttons for those things. By starting out will all the qualities set to not be present, you can just click the buttons for the qualities that the wires do have. Remember to press the "Reset" button between wires.
+This module tool works a bit differently to other, similar ones. It starts with all the buttons pre-selected. It seems inefficient to communicate the things that the wire doesn't have, so I didn't want to need to press buttons for those things. When starting out, all the qualities will be set to "not present", you can just click the buttons for the qualities that the wires do have. Remember to press the "Reset" button between wires.
 
 ### Passwords
 
